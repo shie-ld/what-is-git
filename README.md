@@ -46,12 +46,8 @@ I'll try to incorporate as many things as I can in simple English in it, but aft
 ## What is Git?
 Git is a tool that helps you in `version control` and `source code management` of your project. But wait a minute :thinking:, what are these things. Say we have a directory which contain two files - `foo.txt`, being containing `Hello foo` and `bar.txt` being containing `Hello bar`, as part of a project. Let us say it as `version 1` of our project. So our `version 1` will look like something: 
 
-<p align="center">
-    </ br>
-    <b> Version 1</b>
-    </ br>
 
-</p>
+**Version 1**
 
 File | Content
 --- | ---
@@ -62,18 +58,13 @@ File | Content
 
 Now let us edit our `foo.txt` file and change it's content from `Hello foo` to `Hello foo boo`, and leave `bar.txt` uneditied. And say this is our `version 2` of the project. So our `version 2` will look like:
 
-<p align="center">
-    </ br>
-    **Version 2**
-    </ br>
 
-    File | Content
-    --- | ---
-    `foo.txt` | `Hello foo boo`
-    `bar.txt` | `Hello bar`
+**Version 2**
 
-    </ br>
-</p>
+File | Content
+--- | ---
+`foo.txt` | `Hello foo boo`
+`bar.txt` | `Hello bar`
 
 
 
