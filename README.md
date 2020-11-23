@@ -48,15 +48,15 @@ Git is a tool that helps you in `version control` and `source code management` o
 
 <p align="center">
     </ br>
-    <b> Version </b>
+    <b> Version 1</b>
     </ br>
 
 </p>
 
-    File | Content
-    --- | ---
-    `foo.txt` | `Hello foo`
-    `bar.txt` | `Hello bar`
+File | Content
+--- | ---
+`foo.txt` | `Hello foo`
+`bar.txt` | `Hello bar`
 
 
 
