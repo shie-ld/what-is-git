@@ -37,7 +37,7 @@
 <!-- ABOUT THE TUTORIAL -->
 ## About The Tutorial
 
-This tutorial is aimed at providing you the knowledge of `source code management` and `version` control using `git`. You will not just merely learn about which commands to execute, but how git achieves the whole funda of version control.
+This tutorial is aimed at providing you the knowledge of `source code management` and `version control` using `git`. You will not just merely learn about which commands to execute, but how git achieves the whole funda of version control.
 
 I'll try to incorporate as many things as I can in simple English in it, but after reading this, if you want to learn more about git, then the best resources are [Git Bool](https://git-scm.com/book/en/v2) and [Git Reference](https://git-scm.com/book/en/v2), also the source of this tutorial. This tutorial will aid you in understanding all the git features listed there.
 
@@ -48,16 +48,16 @@ Git is a tool that helps you in `version control` and `source code management` o
 
 <p align="center">
     </ br>
-    **Version 1**
+    <b> Version </b>
     </ br>
+
+</p>
 
     File | Content
     --- | ---
     `foo.txt` | `Hello foo`
     `bar.txt` | `Hello bar`
 
-    </ br>
-</p>
 
 
 Now let us edit our `foo.txt` file and change it's content from `Hello foo` to `Hello foo boo`, and leave `bar.txt` uneditied. And say this is our `version 2` of the project. So our `version 2` will look like:
